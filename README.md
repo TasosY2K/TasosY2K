@@ -2,8 +2,6 @@
 
 <p align="center">⬇️ <strong>This is how many people have visited my account</strong> ⬇️<br><img src="https://profile-counter.glitch.me/TasosY2K/count.svg" /></p>
 
-<br></br>
-
 ## ☎️ Contact Info
  You can contact me on,
 - [my e-mail](mailto:gustavolama20@gmail.com)
